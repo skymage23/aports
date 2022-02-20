@@ -1,3 +1,15 @@
+IMPORTANT!
+==========
+This is a fork of the "aports" repository for Alpine Linux 3.15.0.
+The main difference is it adds new profiles as well as a script
+to export the generated ISOs to mounted, network-attached storage.
+
+While the main profiles provided by the Alpine Linux project
+should function as normal, always expect there to be differences
+unless otherwise noted.  The ISOs generated with this fork
+are generally for very specific uses of Alpine Linux.
+
+
 Alpine Linux aports repository
 ==============================
 
